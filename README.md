@@ -1,2 +1,2 @@
 # course-python
-Course python basic
+Course python basic and advanced
